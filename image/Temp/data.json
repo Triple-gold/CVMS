@@ -1,0 +1,301 @@
+{
+      "data": {
+            "name": {
+                  "raw": "Alex Yu",
+                  "first": "Alex",
+                  "last": "Yu",
+                  "middle": "",
+                  "title": ""
+            },
+            "phone_numbers": [
+                  "67693859"
+            ],
+            "websites": [],
+            "emails": [
+                  "inbox.alexyu@gmail.com"
+            ],
+            "location": {
+                  "formatted": "New Village, Stewartsville, NJ 08886, USA",
+                  "postal_code": "08886",
+                  "state": "New Jersey",
+                  "country": "United States",
+                  "country_code": "US",
+                  "raw_input": "NEWVILLAGE",
+                  "city": "Franklin Township"
+            },
+            "objective": "",
+            "languages": [
+                  "English",
+                  "Cantonese",
+                  "Mandarin"
+            ],
+            "summary": "person who does not give up easily and is good at listening to others My favorite sentence: Keep it simple stupid.",
+            "total_years_experience": 6,
+            "education": [
+                  {
+                        "organization": "Hong Kong Institute of Vocational Education (Sha Tin)",
+                        "accreditation": {
+                              "education": "Master of Science in Software Engineering",
+                              "input_str": "Higher Diploma Software Engineering",
+                              "match_str": "",
+                              "education_level": "masters"
+                        },
+                        "dates": {
+                              "completion_date": "2022-05-26",
+                              "is_current": true,
+                              "start_date": "2018-09-01"
+                        }
+                  },
+                  {
+                        "organization": "Youth College",
+                        "accreditation": {
+                              "education": "Diploma of Vocational Education (Information Technology)",
+                              "input_str": "Diploma of Vocational Education (Information Technology)",
+                              "match_str": ""
+                        },
+                        "dates": {
+                              "completion_date": "2016-09-01",
+                              "is_current": false
+                        }
+                  },
+                  {
+                        "organization": "Guangdong Province He Tu Middle school",
+                        "accreditation": {
+                              "input_str": "",
+                              "match_str": ""
+                        },
+                        "grade": {
+                              "raw": "three to Secondary five"
+                        },
+                        "dates": {
+                              "completion_date": "2012-09-01",
+                              "is_current": false
+                        }
+                  },
+                  {
+                        "organization": "Guangdong Province Long Tan Middle school",
+                        "accreditation": {
+                              "input_str": "",
+                              "match_str": ""
+                        },
+                        "grade": {
+                              "raw": "one to Secondary three"
+                        },
+                        "dates": {
+                              "completion_date": "2012-07-01",
+                              "is_current": false,
+                              "start_date": "2010-09-01"
+                        }
+                  }
+            ],
+            "profession": "Senior Assistant",
+            "work_experience": [
+                  {
+                        "job_title": "Senior Assistant",
+                        "organization": "E Burger Cafe",
+                        "job_description": "",
+                        "dates": {
+                              "start_date": "2016-11-01",
+                              "end_date": "2022-05-26",
+                              "months_in_position": 67,
+                              "is_current": true
+                        },
+                        "occupation": {
+                              "job_title": "Senior Assistant",
+                              "job_title_normalized": "Mentor Assistant",
+                              "classification": {
+                                    "title": "Welfare and housing associate professionals n.e.c.",
+                                    "minor_group": "Welfare and Housing Associate Professionals",
+                                    "sub_major_group": "HEALTH AND SOCIAL CARE ASSOCIATE PROFESSIONALS",
+                                    "major_group": "ASSOCIATE PROFESSIONAL OCCUPATIONS",
+                                    "soc_code": 3229
+                              }
+                        }
+                  }
+            ],
+            "skills": [
+                  {
+                        "name": "Cascading Style Sheets (CSS)",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Operations",
+                        "type": "soft_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Planning",
+                        "type": "soft_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Adobe Photoshop",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Simple",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Summary"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "HyperText Markup Language (HTML)",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "MySQL",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Operation",
+                        "type": "soft_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Hong",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  },
+                  {
+                        "name": "Java (Programming Language)",
+                        "type": "hard_skill",
+                        "sources": [
+                              {
+                                    "section": "Skills/Interests/Languages"
+                              }
+                        ]
+                  }
+            ],
+            "certifications": [],
+            "publications": [],
+            "referees": [],
+            "sections": [
+                  {
+                        "section_type": "PersonalDetails",
+                        "bbox": [
+                              1619.925889532824,
+                              149.92378911784795,
+                              2142.616927103713,
+                              377.13356927106656
+                        ],
+                        "page_index": 0,
+                        "text": "\u4f59 \u5085 \u946b Alex Yu"
+                  },
+                  {
+                        "section_type": "Summary",
+                        "bbox": [
+                              1125.5831198287135,
+                              593.230062477134,
+                              2778.7324855203933,
+                              1154.079992515934
+                        ],
+                        "page_index": 0,
+                        "text": "ABOUT ME person who does not give up easily and is good at listening to others My favorite sentence: Keep it simple stupid. inbox.alexyu@gmail.com"
+                  },
+                  {
+                        "section_type": "PersonalDetails",
+                        "bbox": [
+                              146.0151785253404,
+                              1143.805015689741,
+                              2609.153642143861,
+                              1366.0261183578698
+                        ],
+                        "page_index": 0,
+                        "text": "No.4 LEE UK NEWVILLAGE 67693859 TA KU LING"
+                  },
+                  {
+                        "section_type": "Education",
+                        "bbox": [
+                              150.41327057412627,
+                              1343.4769577528486,
+                              2204.441727354025,
+                              2348.8568732778594
+                        ],
+                        "page_index": 0,
+                        "text": "EDUCATION NT 09/2018 - Now Hong Kong Institute of Vocational Education(Sha Tin) Higher Diploma Software Engineering 09/2016 - 07/2018 Youth College Diploma of Vocational Education (Information Technology) 09/2012 - 07/2015 Guangdong Province He Tu Middle school Secondary three to Secondary five 09/2010 -07/2012 Guangdong Province Long Tan Middle school Secondary one to Secondary three"
+                  },
+                  {
+                        "section_type": "Skills/Interests/Languages",
+                        "bbox": [
+                              168.83059506980476,
+                              2382.9692299933317,
+                              2543.971981451275,
+                              4054.54649289769
+                        ],
+                        "page_index": 0,
+                        "text": "SKILL Activities Java \u00b7 Planning IVE(Sha Tin) FIFA competition Mobile Development \u00b7 Innovative Technology Carnival Fluent Mandarin Student Helper Fluent Cantonese \u00b7 Wine Tasting workshop General English 14th Hong Kong and Macau Youth Network Skills Competition General computer operation Bronze Award HTML YC Singapore Exchange tour CSS Apple Store Field Trip Mysql Network WORK EXPERIENCE Adobe Photoshop 11/2016 - Now Chinese import E Burger Cafe 50 WPM Senior Assistant English import O Consultants"
+                  },
+                  {
+                        "section_type": "Footer",
+                        "bbox": [
+                              1510.3474118229105,
+                              4020.585904330863,
+                              2116.463482682137,
+                              4080.9542299899977
+                        ],
+                        "page_index": 0,
+                        "text": "Amy Zang Phone : 68043869"
+                  },
+                  {
+                        "section_type": "Skills/Interests/Languages",
+                        "bbox": [
+                              228.49997979138016,
+                              4094.68210725658,
+                              422.50174544529,
+                              4151.853869242572
+                        ],
+                        "page_index": 0,
+                        "text": "54 WPM"
+                  }
+            ],
+            "is_resume_probability": 87,
+            "raw_text": "\u4f59 \u5085 \u946b Alex Yu\nABOUT ME person who does not give up easily and is good at listening to others My favorite sentence: Keep it simple stupid. inbox.alexyu@gmail.com\nNo.4 LEE UK NEWVILLAGE 67693859 TA KU LING\nEDUCATION NT 09/2018 - Now Hong Kong Institute of Vocational Education(Sha Tin) Higher Diploma Software Engineering 09/2016 - 07/2018 Youth College Diploma of Vocational Education (Information Technology) 09/2012 - 07/2015 Guangdong Province He Tu Middle school Secondary three to Secondary five 09/2010 -07/2012 Guangdong Province Long Tan Middle school Secondary one to Secondary three\nSKILL Activities Java \u00b7 Planning IVE(Sha Tin) FIFA competition Mobile Development \u00b7 Innovative Technology Carnival Fluent Mandarin Student Helper Fluent Cantonese \u00b7 Wine Tasting workshop General English 14th Hong Kong and Macau Youth Network Skills Competition General computer operation Bronze Award HTML YC Singapore Exchange tour CSS Apple Store Field Trip Mysql Network WORK EXPERIENCE Adobe Photoshop 11/2016 - Now Chinese import E Burger Cafe 50 WPM Senior Assistant English import O Consultants\nAmy Zang Phone : 68043869\n54 WPM"
+      },
+      "meta": {
+            "identifier": "GVuARzrU",
+            "file_name": "cv.pdf",
+            "ready": true,
+            "ready_dt": "2022-05-26T21:02:48.961574Z",
+            "failed": false
+      },
+      "error": {}
+}
