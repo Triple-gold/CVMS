@@ -39,30 +39,19 @@ from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.converter import PDFPageAggregator
 
 def UploadFile():
-    # print("This is upload file")
 
-    # select_path = r'C:\FYP\CVMS\image'
-    #  print("location is " + os.getcwd())
     localTime = time.strftime("%Y%m%d-%H%M%S", time.localtime())
 
     filename = filedialog.askopenfilename(title='Please select the file')
-    # mylistTest = []
-    # List_Correct = []
-    # print(filename)
+
     fileExtension = os.path.splitext(filename)[-1]
-    # rint(fileExtension)
 
     imageFolderLoaction = (os.getcwd() + '/pdf/' + localTime + fileExtension)
-    # print(" imageFolderLoaction" + imageFolderLoaction)
     shutil.copy(filename, imageFolderLoaction)
     imgName = os.path.basename(filename)
-    # pdf_path = r"./pdf/ + localTime + '.pdf' "
     pdf_path = r"./pdf/" + localTime + '.pdf'
-    # print("pdf_path" + pdf_path)
 
-    # pdf_path = r"G:\User\Yam\Desktop\TestOpenCV2.pdf"
     img_path = r"./image/cv"
-    # pdf_image(pdf_path, img_path, 5, 5, 0)
     return pdf_path, img_path
 
 
@@ -99,11 +88,9 @@ def redImage(cvImagePath):
     n = text_file.write(text)
 
     text_file.close()
-    # candidate_info(cvImagePath)
 
 
 def get_info_formAPIs(file_pth):
-    # from pathlib import Path
     print('This is the new', file_pth)
     from affinda import AffindaAPI, TokenCredential
 
